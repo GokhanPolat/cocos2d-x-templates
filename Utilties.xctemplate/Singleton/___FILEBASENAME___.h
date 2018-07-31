@@ -6,8 +6,8 @@
 //___COPYRIGHT___
 //
 
-#ifndef _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
-#define _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
+
+#pragma once
 
 #include "cocos2d.h"
 
@@ -22,4 +22,3 @@ private:
 
 };
 
-#endif /* defined(_____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____) */
