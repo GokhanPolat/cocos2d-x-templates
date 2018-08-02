@@ -24,3 +24,4 @@ XCode templates for cocos2d-x
 ## uninstall
 
     rm -r path/to/cocos2d-x-templates
+
