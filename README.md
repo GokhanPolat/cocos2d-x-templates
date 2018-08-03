@@ -26,4 +26,3 @@ XCode templates for cocos2d-x
     rm -r path/to/cocos2d-x-templates
 
 
-
